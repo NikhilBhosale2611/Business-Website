@@ -1,0 +1,154 @@
+    .nav {
+        padding-left: 0px;
+        margin-bottom: 0px;
+        width: 100%;
+        flex-direction: row;
+        height: 600px;
+    }
+    
+    div .dir {
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+        justify-content: center;
+    }
+    
+    div .ddlists {
+        flex-direction: column;
+        height: 510px;
+        width: 100%;
+    }
+    
+    .dropdown {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .mi {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+    }
+    
+    .pluginfix {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+    }
+    /* navbar done */
+    
+    .stimgsmall {
+        width: 66%;
+    }
+    
+    .formside1 p {
+        font-size: 63%;
+    }
+    
+    .c2contacts {
+        font-size: 8px;
+    }
+    
+    .formside2 button {
+        width: 40%;
+    }
+    
+    .contactpart2 {
+        height: 178px;
+    }
+    
+    .formside2 form {
+        height: 100%;
+    }
+    
+    .namemail #name {
+        margin: 0px;
+        margin-top: 6px;
+        margin-right: 6px;
+        height: 35px;
+    }
+    
+    .namemail #mail {
+        margin: 0px;
+        height: 35px;
+        margin-top: 6px;
+    }
+    
+    .formside2 button {
+        margin-left: 0px;
+        margin-top: 0px;
+        height: 35px;
+    }
+    
+    .message input {
+        margin-left: 0px;
+        width: 100%;
+        height: 40px;
+        margin-top: 4px;
+    }
+    
+    .socialmedia {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .sc1 {
+        width: 100%;
+    }
+    
+    .footer {
+        height: 660px;
+    }
+    
+    .footer1 span b {
+        width: 100%;
+        font-size: 10px;
+    }
+    
+    .footer1 p {
+        font-size: 10px;
+    }
+    
+    .footer1 p {
+        padding-left: 22px;
+        padding-right: 36px;
+    }
+    
+    .footer2 {
+        flex-direction: column;
+    }
+    
+    .footer2_1 p {
+        font-size: 10px;
+    }
+    
+    .footer2_2 p {
+        font-size: 10px;
+    }
+    
+    .lower {
+        flex-direction: column;
+        height: inherit;
+    }
+    
+    .c3txt {
+        font-size: 10px;
+    }
+    
+    .c3txt h2 {
+        font-size: 9px;
+    }
